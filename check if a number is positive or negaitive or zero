@@ -1,0 +1,16 @@
+package com.code;
+
+public class if_exerciese {
+    public static void main(String[] args) {
+            int a = 0;
+            if (a>0){
+                System.out.println("the number is positive");
+            }
+            else if (a<0){
+                System.out.println("the number is negaitive");
+            }
+            else{
+                System.out.println("the is is zero");
+            }
+    }
+}
